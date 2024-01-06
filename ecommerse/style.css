@@ -1,0 +1,21 @@
+body{
+    background-image:url(ASSET/bg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    background-position: center;
+    background-attachment: fixed;
+
+
+}
+th{
+    padding-inline-start: 30px;
+} 
+table{
+    padding-top: 75px;
+    padding-left: 15px;
+
+}
+.right{
+    margin-left: 60%;
+}
